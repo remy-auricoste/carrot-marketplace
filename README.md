@@ -13,4 +13,5 @@ You are asked to store :
 Then, you will need to retrieve the supply and demand curves and find the matching price.
 
 Here is an example of such a curve :
+
 <img src="http://ingrimayne.com/econ/DemandSupply/Figure4.5.gif" />
